@@ -1,0 +1,6 @@
+requests
+python-dotenv
+psycopg[binary]
+confluent-kafka
+pytest
+websockets
